@@ -3,7 +3,7 @@
 - 🏛️ I'm a **Digital Solutions Architect** working as a solo freelancer
 - 🔭 I'm currently building production-grade, self-hosted web applications
 - 🏗️ I self-host everything
-- ⚡ Fun fact: I value **security > performance > maintainability > simplicity** — in that order
+- ⚡ Fun fact: I value **security > performance > maintainability > simplicity** in that order
 
 ### 🛠️ Tech Stack
 
