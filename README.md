@@ -2,7 +2,7 @@
 
 - 🏛️ I'm a **Digital Solutions Architect** working as a solo freelancer
 - 🔭 I'm currently building production-grade, self-hosted web applications
-- 🏗️ I self-host everything with **Coolify** on VPS — zero managed cloud dependency
+- 🏗️ I self-host everything
 - ⚡ Fun fact: I value **security > performance > maintainability > simplicity** — in that order
 
 ### 🛠️ Tech Stack
@@ -18,7 +18,6 @@
 ### 🏗️ Infra & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)
 
