@@ -21,4 +21,4 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)
 
-📫 Reach me on X: [@pouvo](https://x.com/pouvo)
+📫 Reach me on Discord: **.johngotti**
